@@ -1,1 +1,3 @@
-hello.mechatype@gmail.com
+emailaddress_1@gmail.com
+emailaddress_2@gmail.com
+emailaddress_3@gmail.com
